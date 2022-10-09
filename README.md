@@ -3,7 +3,7 @@
 
 💰 I’m investment advisor and I love financial market, banks, brokers and related areas.
 
-🌍 I LOVE languages 😍💗 but I only speak English and Portuguese 😮‍💨😥 *for a while*
+🌍 I LOVE languages 😍💗 but I only speak Portuguese and a little English😮‍💨😥 *for a while*
 
 🐍 Now I decided to learn Python and I hope that I can learn something 😅🤣
 
