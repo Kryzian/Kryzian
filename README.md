@@ -1,6 +1,6 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Kryzian+Sousa;+Investment+Advisor;Sciences+Humanities;International+Relations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Kryzian+Sousa)](https://git.io/typing-svg)
 
 <div align="left">
 
@@ -30,6 +30,8 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center" >
 
 **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** 😊
 
