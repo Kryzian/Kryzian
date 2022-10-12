@@ -7,7 +7,7 @@
 
 <div align="left">
 
-**Hi there** 🤗👋🏻 **My name is Kryzian Sousa** 🌷
+### Hi there 🤗👋🏻 **My name is Kryzian Sousa** 🌷
 
 🎓 I study **Sciences & Humanities** and **International Relations** at Federal University of ABC.
 
