@@ -38,15 +38,14 @@
  
 </div>
 
-<div align="center" >
+ 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kryzian&bg_color=000000&color=F74C76&line=fa7f72&point=f08080&area=true&hide_border=true&radius=11)
+ 
+ <div align="center" >
 
 **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** 😊
 
 **Thanks for Visiting!** 😇
-
- 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kryzian&bg_color=000000&color=F74C76&line=fa7f72&point=f08080&area=true&hide_border=true&radius=11)
- 
  
 <details>
 <summary>Profile visitors</summary>
