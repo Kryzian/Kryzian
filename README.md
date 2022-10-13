@@ -44,6 +44,10 @@
 
 **Thanks for Visiting!** 😇
 
+ 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kryzian&bg_color=000000&color=F74C76&line=fa7f72&point=f08080&area=true&hide_border=true&radius=11)
+ 
+ 
 <details>
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
