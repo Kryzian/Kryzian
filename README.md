@@ -11,7 +11,7 @@
 
 🎓 I study **Sciences & Humanities** and **International Relations** at Federal University of ABC.
 
-💰 I’m investment advisor and I love financial market, banks, brokers and related areas.
+💰 I’m an investment advisor and I love financial market, banks, brokers and related areas.
 
 🌍 I LOVE languages 😍💗 but I only speak Portuguese and a little English😮‍💨😥 *for a while*
 
