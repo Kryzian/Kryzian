@@ -32,7 +32,11 @@
   
 </div>
   <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-<img align="center" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
+<img align="center" height="150" style="border-radius:50px;"
+src="https://user-images.githubusercontent.com/114785143/197357864-acea6892-5ec7-4ad2-82df-99b21144501b.gif">
+  <img align="center" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
+<div align="center"> 
+I, like Dory, have a horrible memory 🤭
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
