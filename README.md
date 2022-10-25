@@ -31,8 +31,7 @@
   <a href="https://www.linkedin.com/in/kryzian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-<img align="center" height="130" style="border-radius:50px;"
+<img align="center" height="133" style="border-radius:50px;"
 src="https://user-images.githubusercontent.com/114785143/197361098-8adebbf7-419e-44ee-bf97-35401bd467df.gif">
 <img align="center" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="200"/>
    
