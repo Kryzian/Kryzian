@@ -49,7 +49,7 @@ src="https://user-images.githubusercontent.com/114785143/197361098-8adebbf7-419e
 **Thanks for Visiting!** 😇
  
 <details>
-<summary>Profile visitors</summary>
+<summary>Profile visitors<summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/kryzian/count.svg">
