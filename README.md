@@ -9,7 +9,7 @@
 
 ### Hi there 🤗👋🏻 **My name is Kryzian Sousa** 🌷
 
-🎓 I study **Sciences & Humanities** and **International Relations** at Federal University of ABC.
+🎓 I have a degree in **Sciences & Humanities** and I'm studying **International Relations** at Federal University of ABC.
 
 💰 I’m an investment advisor and I love financial market, banks, brokers and related areas.
 
